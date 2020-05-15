@@ -12,6 +12,7 @@ footnoteReturnLinkContents = "↩"
 title           = "HugoBoilerplate"
 
 theme           = "HugoBoilerplateThemeBlog"  
+#theme           = "HugoBoilerplateThemeWiki"
 contentdir      = "content"
 publishdir      = "public"
 paginate        = 3
