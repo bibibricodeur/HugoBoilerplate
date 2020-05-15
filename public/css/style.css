@@ -1,0 +1,75 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.navbar {
+    background-color: #176677;
+    border-bottom: 12px solid #776617;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+img, embed, object, video {
+    max-width: 100%;
+}
+
+.svg {
+    max-width: 30%;
+}
+#piaf {
+    margin-top: 0 !important;
+}
+.tag {
+    font-style: italic;
+}
+
+footer {
+    background-color: #176677;
+    border-top: 12px solid #776617;
+}
+footer a {
+    color: #ccc;
+    transition: all 0.3s ease;
+}
+
+footer a:hover {
+    color: #1d89ff;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+  
+pre {
+    white-space: pre-wrap; 
+}
+
+blockquote
+{
+  font-style: italic;
+  margin-left: 32px;
+  font-family: ;
+  font-size: 18px;
+  border-left: 3px solid #777;
+  padding-left: 9px;
+}
+
+#boutonRemonter {
+    display: none;
+    position: fixed;
+    bottom: 90px;
+    right: 10px;
+    z-index: 99;
+}
+#boutonRemonter:hover {
+    transition-duration: 0.7s;
+    opacity: 0.3;
+}

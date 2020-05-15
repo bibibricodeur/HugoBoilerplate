@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://dev.localhost/Nextcloud/NextPublic/HUGO/HugoBoilerplate/public/article_06/</loc>
+    <lastmod>2019-12-26T15:03:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.localhost/Nextcloud/NextPublic/HUGO/HugoBoilerplate/public/categories/</loc>
+    <lastmod>2019-12-26T15:03:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.localhost/Nextcloud/NextPublic/HUGO/HugoBoilerplate/public/categories/divers-002/</loc>
+    <lastmod>2019-12-26T15:03:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.localhost/Nextcloud/NextPublic/HUGO/HugoBoilerplate/public/</loc>
+    <lastmod>2019-12-26T15:03:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.localhost/Nextcloud/NextPublic/HUGO/HugoBoilerplate/public/tags/informatique-002/</loc>
+    <lastmod>2019-12-26T15:03:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.localhost/Nextcloud/NextPublic/HUGO/HugoBoilerplate/public/tags/</loc>
+    <lastmod>2019-12-26T15:03:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.localhost/Nextcloud/NextPublic/HUGO/HugoBoilerplate/public/article_05/</loc>
+    <lastmod>2019-12-25T15:03:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.localhost/Nextcloud/NextPublic/HUGO/HugoBoilerplate/public/article_04/</loc>
+    <lastmod>2019-12-24T15:03:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.localhost/Nextcloud/NextPublic/HUGO/HugoBoilerplate/public/article_03/</loc>
+    <lastmod>2019-12-23T15:03:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.localhost/Nextcloud/NextPublic/HUGO/HugoBoilerplate/public/categories/divers-001/</loc>
+    <lastmod>2019-12-23T15:03:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.localhost/Nextcloud/NextPublic/HUGO/HugoBoilerplate/public/tags/informatique-001/</loc>
+    <lastmod>2019-12-23T15:03:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.localhost/Nextcloud/NextPublic/HUGO/HugoBoilerplate/public/article_02/</loc>
+    <lastmod>2019-12-22T15:03:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.localhost/Nextcloud/NextPublic/HUGO/HugoBoilerplate/public/article_01/</loc>
+    <lastmod>2019-12-21T15:03:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.localhost/Nextcloud/NextPublic/HUGO/HugoBoilerplate/public/mentions/</loc>
+    <lastmod>1970-01-01T12:00:00+01:00</lastmod>
+  </url>
+  
+</urlset>
