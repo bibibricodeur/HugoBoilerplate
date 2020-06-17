@@ -15,7 +15,7 @@
         </div>
         <!-- /card-body -->
         <div class="card-footer text-muted">
-            Posté le: <time>{{ .Date.Format "02.01.2006 15:04" }}</time>
+            Posté le: {{ .Date.Format "02.01.2006 15:04" }}
             {{ if .Params.tags }}
             <p>
                 <strong>Etiquette(s):</strong>
